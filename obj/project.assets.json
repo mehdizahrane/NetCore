@@ -13121,11 +13121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Usedi1\\Desktop\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\Usedi1\\Desktop\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "c:\\Users\\Usedi1\\Desktop\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\Usedi1\\Desktop\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Usedi1\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Usedi1\\Desktop\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\Usedi1\\Desktop\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
